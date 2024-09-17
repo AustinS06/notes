@@ -14,3 +14,9 @@
 * [Java Script Questions](https://github.com/lydiahallie/javascript-questions)
 * [Websites A Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 # Experiments
+:smirk:
+:grinning:
+:cry:
+:persevere:
+:anguished:
+:bowtie:
