@@ -20,3 +20,13 @@
 :persevere:
 :anguished:
 :bowtie:
+# Keyboard Shortcuts
+Shortcuts I frequently use:
+-Ctrl-C (copy)
+-Ctrl-V (paste)
+-Ctrl-F (find)
+-Alt-Tab (switch between open apps)
+
+Shortcuts I would like to start using:
+-Win-D (show desktop)
+-Win-PrtScn (screenshot)
