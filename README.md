@@ -13,6 +13,7 @@
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 * [Java Script Questions](https://github.com/lydiahallie/javascript-questions)
 * [Websites A Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [CLI Commands](https://github.com/AustinS06/docs/cli.md)
 # Experiments
 :smirk:
 :grinning:
